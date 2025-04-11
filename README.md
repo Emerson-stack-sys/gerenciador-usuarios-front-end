@@ -1,5 +1,5 @@
 
-# 💻 Gerenciador de Usuários - Frontend
+# 💻 Gerenciador de Usuários 
 
 Este projeto é um <h2> Este foi um  projeto que aprendi no curso do DevClub <a href="https://rodolfomori.com.br/Devclub">clique aqui </a> Gerenciador de Usuários, com Professor Rodolfo Mori com **React**, utilizando **Vite** como bundler, **JavaScript**, e integração com uma **API externa** para operações de CRUD. O app permite listar, adicionar, editar e excluir usuários de forma dinâmica e responsiva.
 
@@ -42,31 +42,43 @@ Este projeto é um <h2> Este foi um  projeto que aprendi no curso do DevClub <a 
 
 
 <!-- Telas no Notebook -->
+<br>
+<br>
 <div>
   <div class="section-title">💻 Tela do Projeto Rodando no Notebook</div>
+  <br>
   <div class="image-group">
-    <img src="src/assets/notebook1.png" alt="Notebook" />
-    <img src="src/assets/notebook2.png" alt="Notebook" />
+    <img src="src/assets/notebook1.png" alt="Notebook" width="400" />
+    <img src="src/assets/notebook2.png" alt="Notebook" width="400" />
   </div>
 </div>
+<br>
 
 <!-- Telas no Tablet -->
+<br>
+<br>
 <div>
   <div class="section-title">🖥 Tela do Projeto Rodando no Tablet</div>
+  <br>
   <div class="image-group">
-    <img src="src/assets/phone1.png" alt="Tablet" />
-    <img src="src/assets/phone2.png" alt="Tablet" />
+    <img src="src/assets/phone1.png" alt="Tablet" width="400" />
+    <img src="src/assets/phone2.png" alt="Tablet" width="400" />
   </div>
 </div>
+<br>
 
 <!-- Telas no Smartphone -->
+<br>
+<br>
 <div>
   <div class="section-title">📱 Tela do Projeto Rodando no Smartphone</div>
+  <br>
   <div class="image-group">
-    <img src="src/assets/tablet1.png" alt="Smartphone" />
-    <img src="src/assets/tablet2.png" alt="Smartphone" />
+    <img src="src/assets/tablet1.png" alt="Smartphone" width="400" />
+    <img src="src/assets/tablet2.png" alt="Smartphone" width="400" />
   </div>
 </div>
+<br>
 
 ---
 
