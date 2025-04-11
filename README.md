@@ -22,6 +22,7 @@ Este projeto é um <h2> Este foi um  projeto que aprendi no curso do DevClub <a 
 
 ## 📦 Instalação
 
+<h2>
 1. Clone o repositório:
 
 🧠 Funcionalidades
@@ -38,7 +39,7 @@ Este projeto é um <h2> Este foi um  projeto que aprendi no curso do DevClub <a 
 🔃 Estados controlados com useState
 
 ## 📸 Demonstração
-
+ </h2>
 
 
 <!-- Telas no Notebook -->
