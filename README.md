@@ -1,5 +1,5 @@
 
-# 💻 Gerenciador de Usuários 
+<h1># 💻 Gerenciador de Usuários</h1> 
 
 Este projeto é um <h2> Este foi um  projeto que aprendi no curso do DevClub <a href="https://rodolfomori.com.br/Devclub">clique aqui </a> Gerenciador de Usuários, com Professor Rodolfo Mori com **React**, utilizando **Vite** como bundler, **JavaScript**, e integração com uma **API externa** para operações de CRUD. O app permite listar, adicionar, editar e excluir usuários de forma dinâmica e responsiva.
 
